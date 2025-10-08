@@ -55,8 +55,8 @@ admin.site.register(Car_DB,Car_DBAdmin)
 
 
 ## OUTPUT
+<img width="1157" height="492" alt="image" src="https://github.com/user-attachments/assets/793f89a0-aab0-4803-bbda-8c009eab2fa4" />
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
