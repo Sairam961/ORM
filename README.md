@@ -55,7 +55,7 @@ admin.site.register(Car_DB,Car_DBAdmin)
 
 
 ## OUTPUT
-<img width="1157" height="492" alt="image" src="https://github.com/user-attachments/assets/793f89a0-aab0-4803-bbda-8c009eab2fa4" />
+<img width="1280" height="317" alt="image" src="https://github.com/user-attachments/assets/74e3a3b9-2fcd-49a4-a581-21daa2ad868e" />
 
 
 
